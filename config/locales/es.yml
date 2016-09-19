@@ -14,7 +14,7 @@ es:
     limitesuperior: Límite Superior
     fechaexpulsion: Fecha de Expulsión
     expulsion: Sitio de Expulsión
-    fechallegada:  Fecha de Llegada 
+    fechallegada: Fecha de Llegada 
     llegada: Sitio de Llegada
     clasifdesp: Clasificación
     tipodesp: Tipo
@@ -23,7 +23,7 @@ es:
     declaro:  Declaró
     hechosdeclarados: Hechos Declarados 
     fechadeclaracion:  Fecha de Declaración 
-    declaroante: Declaro Ante
+    declaroante: Declaró Ante
     inclusion: Inclusión RUV
     acreditacion: Acreditación
     retornado:  Retornado
@@ -31,8 +31,8 @@ es:
     connacionalretorno:  Connacional con Retorno Voluntario
     acompestado:  Acompañamiento Estado
     connacionaldeportado:  Connacional Deportado
-    oficioantes: Oficio antes
-    modalidadtierra: Modalidad Ten. Tierra
+    oficioantes: Oficio antes del desplazamiento
+    modalidadtierra: Modalidad Tenencia Tierra
     materialesperdidos: Bienes Materiales Perdidos 
     inmaterialesperdidos: Bienes Inmateriales Perdidos 
     protegiorupta:  Protegió predio en RUPTA
@@ -53,15 +53,15 @@ es:
         Proyectos: Áreas de Actividad
       "sal7711_gen/articulo": 
         texto: Resumen
-        fuenteprensa: Fuente de prensa
+        fuenteprensa: Fuente de Prensa
       "sivel2_gen/caso": 
-        fecha: F. Desp. Emblemático
-        expulsion: Sitio Expulsión Emb.
-        llegada: Sitio Llegada Emb.
+        fecha: Fecha Desp. Emblemático
+        expulsion: Sitio Expulsión Emblemático
+        llegada: Sitio Llegada Emblemático
       "sivel2_gen/caso_presponsable": 
         presponsable: Presunto responsable
       "sivel2_gen/presponsable": 
-        presponsable: presunto responsable
+        presponsable: Presunto responsable
       "sivel2_sjr/aslegal": 
         Aslegal: Asesoría Jurídica
         Aslegales: Asesorías Jurídicas
@@ -73,13 +73,13 @@ es:
         Clasifdesp: Clasificación de Desplazamiento
         Clasifdesps: Clasificaciones de Desplazamientos
       "sivel2_sjr/declaroante": 
-        Declaroante: Declaro Ante
-        Declaroantes: Declaro Ante
+        Declaroante: Declaró Ante
+        Declaroantes: Declaró Ante
       "sivel2_sjr/desplazamiento":
-        categoria: Antecedentes no individuales
+        categoria: Antecedentes NO individuales
       "sivel2_sjr/motivosjr": 
-        Motivosjr: Servicio y Asesoria del SJR
-        Motivossjr: Servicios y Asesorias del SJR
+        Motivosjr: Servicio y Asesoría del SJR
+        Motivossjr: Servicios y Asesorías del SJR
       "sivel2_sjr/personadesea": 
         Personadesea: Persona desea
         Personadeseas: Personas desean
@@ -88,29 +88,29 @@ es:
         aslegal: Seguimiento judicial
         ayudaestado: Ayuda el Estado
         cantidadayes: Cantidad ayuda del Estado
-        derecho: Derechos vulnerados
+        derecho: Derechos Vulnerados
         descamp: Descripción o ampliación del caso
         detalleal: Detalle S. judicial
         detallemotivo: Detalle servicios y asesorias del SJR
         difobsprog: Dificultades y Observaciones respecto a Respuesta del Estado
         efectividad: Efectividad en la acción
-        fechaultima: Fecha última prorroga
+        fechaultima: Fecha última prórroga
         gestionessjr: Gestiones del SJR
         informacionder: Se brindó información
         institucionayes: Instituciones que ayudaron
         lugar: Lugar solicitud turno
-        lugarultima: Lugar última prorroga
-        montoprorrogas: Monto prorrogas
-        montoal: Monto S. judicial
+        lugarultima: Lugar última prórroga
+        montoprorrogas: Monto prórrogas
+        montoal: Monto Seguimiento jurídico
         motivosjr: Servicios y asesorias del SJR
-        numprorrogas: Número de prorrogas
+        numprorrogas: Número de prórrogas
         observaciones: Observaciones del caso
         orientaciones: Recomendaciones
         progestado: Programas y respuesta del Estado
-        remision: Remisión a otra Org.
+        remision: Remisión a otra Organización
         Sesionesatencion: "Respuestas"
-        sesionatencion: "respuesta"
-        turno: Turno próxima prorroga
+        sesionatencion: "Respuesta"
+        turno: Turno próxima prórroga
         verifcper: Verificación compromisos persona
         verifcsjr: Verificación compromisos SJR
       "sip/ubicacion":
