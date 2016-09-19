@@ -63,8 +63,8 @@ es:
       "sivel2_gen/presponsable": 
         presponsable: presunto responsable
       "sivel2_sjr/aslegal": 
-        Aslegal: Seguimiento Judicial
-        Aslegales: Seguimientos Judiciales
+        Aslegal: Asesoría Jurídica
+        Aslegales: Asesorías Jurídicas
       "sivel2_sjr/ayudaestado": 
         "{:derechos_ids=>[]}": Derechos relacionados
       "sivel2_sjr/casosjr": 
